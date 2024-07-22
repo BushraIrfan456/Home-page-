@@ -1,0 +1,245 @@
+* {
+    padding: 0;
+    margin: 0;
+    scroll-behavior: smooth;
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0 auto;
+    width: 60%;
+    height: 1900px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.400),rgba(0, 0, 0, 0.200)), url(./images/beauty.jpg)
+}
+h1 {
+    margin: 0 auto;
+    color: purple;
+    text-align: center;
+    margin-top: 120px;
+    margin-right: 215px;
+    margin-bottom: 20px;
+  font-family: "Luckiest Guy", cursive;
+  font-weight: 400;
+  font-style: normal;
+    font-size: 90px;
+    text-shadow: 2px 2px  #3a3510;
+}
+.container {
+    width: 1000px;
+    max-width: 1500px;
+    margin: 0 auto ;
+    margin-left: 280px;
+    height: 500px;
+    position: relative;
+    background-color: rgba(42, 42, 18, 0);
+    
+}
+
+.user1,.user2,.user3,.user4,.user5,.user6,.user7,.user8,.user9,.user10
+{
+     width:  100px;
+    height: 100px;
+    display: flex;
+    border-radius: 50%;
+    position: absolute;
+    margin: 0 auto;
+    border: 5px solid white;
+
+}
+.user11,.user12,.user13,.user14,.user15,.user16,.user17,.user18,.user19,.user20
+{
+  width:  100px;
+    height: 100px;
+    display: flex;
+    border-radius: 50%;
+    position: absolute;
+    margin: 0 auto;
+    margin-top: 40px;
+    border: 5px solid white;
+}
+.user21,.user22,.user23,.user24,.user25,.user26,.user27,.user28,.user29,.user30
+{
+  width:  100px;
+    height: 100px;
+    display: block;
+    border-radius: 50%;
+    position: absolute;
+    margin: 80px auto;
+    border: 5px solid white;
+}
+.user1 {
+    background-color: rgb(255, 153, 153);
+    left: 10%;
+}
+.user01{
+  background-color: brown;
+  left: 90%;
+}
+.user2 {
+    background-color: rgb(255, 204, 204);
+    left: 15%;
+}
+
+.user3 {
+    background-color: rgb(255, 153, 153);
+    left: 20%;
+}
+
+.user4 {
+    background-color: rgb(255, 102, 102);
+    left: 25%;
+    z-index: 1;
+}
+
+.user5 {
+    background-color: rgb(255, 51, 51);
+    left: 30%;
+    z-index: 1;
+}
+
+.user6 {
+    background-color: rgb(255, 0, 0);
+    left: 35%;
+    z-index: 1;
+}
+
+.user7 {
+    background-color: rgb(200, 40, 100);
+    left: 40%;
+    z-index: 1;
+}
+
+.user8 {
+    background-color: rgb(255, 51, 153);
+    left: 45%;
+    z-index: 1;
+}
+
+.user9 {
+    background-color: rgb(255, 0, 127);
+    left: 50%;
+    z-index: 1;
+}
+.user10{
+  background-color: rgb(255, 153, 204);
+    left: 50%;
+    z-index: 1;
+}
+
+/* ------------------------------------- */
+.user11 {
+    background-color: rgb(0, 0, 0);
+    left: 10%;
+}
+
+.user12 {
+    background-color: rgb(0, 255, 170);
+    left: 15%;
+}
+
+.user13 {
+    background-color: rgb(00, 0, 255);
+    left: 20%;
+}
+
+.user14 {
+    background-color: rgb(153,204,255);
+    left: 25%;
+}
+
+.user15 {
+    background-color: rgb(127, 0, 255);
+    left: 30%;
+}
+
+.user16 {
+    background-color: rgb(255,51,153);
+    left: 35%;
+}
+
+.user17 {
+    background-color: rgb(255, 0, 0);
+    left: 40%;
+}
+
+.user18 {
+    background-color: rgb(255, 128, 0);
+    left: 45%;
+}
+
+.user19 {
+    background-color: rgb(153, 0, 153);
+    left: 50%;
+}
+
+.user20 {
+    background-color: rgb(160, 160, 160);
+    left: 55%;
+}
+/* ------------------------------ */
+.user21 {
+  background-color: mediumpurple;
+  left: 10%;
+}
+.user22 {
+    background-color: rgb(255,255,255);
+    left: 15%;
+}
+
+.user23 {
+    background-color: rgb(0, 0, 0);
+    left: 20%;
+}
+
+.user24 {
+    background-color: rgb(255, 0, 0);
+    left: 25%;
+}
+
+.user25 {
+    background-color: rgba(255, 128, 0);
+    left: 30%;
+}
+
+.user26 {
+    background-color: rgb(0, 153, 0);
+    left: 35%;
+}
+
+.user27 {
+    background-color: rgb(255, 0, 127);
+    left: 40%;
+}
+
+.user28 {
+    background-color: rgb(102,0,204);
+    left: 45%;
+}
+
+.user29 {
+    background-color: rgb(0, 0, 204);
+    left: 50%;
+}
+
+.user30 {
+    background-color: rgb(255, 255, 0);
+    left: 55%;
+}
+.user31{
+  background-color: steelblue;
+  left: 30%
+}
+.user0 {
+  background-color: firebrick;
+  left: 50%;
+}
+h2{
+  color: black;
+  font-family: "Anton SC", sans-serif;
+  font-weight: 400;
+  font-style: normal;
+}
